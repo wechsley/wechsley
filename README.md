@@ -3,7 +3,7 @@
 
 ## About me
 
-:four_leaf_clover: I'm currently learning basic programming with java and python.<br/>
+:four_leaf_clover: I'm currently learning data analysis.<br/>
 :pencil: I'm going to manage a [blog]([https://trader-lee.tistory.com/]) <br/>
 :postbox: How to reach me : jungho_lee5@naver.com <br/>
 
@@ -11,7 +11,7 @@
 Data analyst <br/>
 
 ## Latest projects
-'
+'Correlation Analysis between Total ESG Risk Ratings and Stock Price for S&P 500 Companies' <br/>
 ## Languages and Tools
 <p>
 <img src="https://img.shields.io/badge/Excel-217346?&style=flat-square&logo=html5&logoColor=white"/> 
@@ -20,8 +20,8 @@ Data analyst <br/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=flask&logoColor=white"/>
 </p>
 
-<!--추후변경-->
-<p>
+
+<p><!--div>
 <img src=".github/scripts/check_svgs_on_pr.py" width="50" height="50"/>
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
